@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7cb575e4.css",
+    "main.js": "/static/js/main.67077e62.js",
+    "static/media/login-signup-banner.png": "/static/media/login-signup-banner.f4dafa7d9bc505aa2718.png",
+    "index.html": "/index.html",
+    "main.7cb575e4.css.map": "/static/css/main.7cb575e4.css.map",
+    "main.67077e62.js.map": "/static/js/main.67077e62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cb575e4.css",
+    "static/js/main.67077e62.js"
+  ]
+}
