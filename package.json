@@ -3,5 +3,6 @@
      "gh-pages": "^4.0.0"
   "predeploy" : "npm run build",
   "deploy" : "gh-pages -d build",
+  http://nestorbird.github.io/React-app
   }
 }
